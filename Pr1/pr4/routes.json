@@ -1,0 +1,6 @@
+{
+  "/books/name/:name": "/books?name=:name",
+  "/books/author/:author": "/books?author=:author",
+  "/books/genre/:genre": "/books?genre=:genre",
+  "/books/library/:library": "/books?library=:library"
+}
